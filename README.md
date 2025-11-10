@@ -1,4 +1,4 @@
-# Fifo-E-Lifo
+# Pilhas e Filas
 Estudo prático sobre FIFO e LIFO - conceitos básicos de pilhas e filas em estruturas de dados e suas diferenças.
 
 #### O que são FIFO e LIFO?
