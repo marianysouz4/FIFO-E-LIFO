@@ -17,7 +17,7 @@ A principal diferença entre as duas estruturas de dados é a ordem de processam
 2. Farmácias
 
 ###### Breve explicação:
-Vamos supo que existe uma empresa de alimentos onde a empresa recebe um lote de mercadoria no início do mês e, depois de 10 dias, recebe outro lote. Ele deve priorizar o primeiro lote, que está há mais tempo no estoque. Então nesse caso ocorre a estrutura de fila, já que o primeiro lote de alimentos deve ser o primeiro lote a sair, independente do recebimento de outro lote.
+Vamos supor que existe uma empresa de alimentos onde a empresa recebe um lote de mercadoria no início do mês e, depois de 10 dias, recebe outro lote. Ele deve priorizar o primeiro lote, que está há mais tempo no estoque. Então nesse caso ocorre a estrutura de fila, já que o primeiro lote de alimentos deve ser o primeiro lote a sair, independente do recebimento de outro lote.
 
 ##### Onde podemos utilizar o LIFO?
 1. Lojas de roupas
